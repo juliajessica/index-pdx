@@ -53,7 +53,7 @@ Takes multiple filter parameters | diet: "vegan"<br>price: "$" | [1: Place {name
 
 #### Make A Pull Request
   * When sending a PR have an appropriate title referencing the issue which it solves.
-  Add “fixes #” in the commit body, so that when the PR gets merged, the issue gets closed automatically. Do not do this if the PR solves only a part of the issue.
+  * Add “fixes #” in the commit body, so that when the PR gets merged, the issue gets closed automatically. Do not do this if the PR solves only a part of the issue.
 
 
 ## License
