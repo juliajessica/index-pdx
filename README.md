@@ -37,6 +37,22 @@ Takes multiple filter parameters | diet: "vegan"<br>price: "$" | [1: Place {name
 * CSS _(Bootstrap 4)_
 * JavaScript _(jQuery 3.3.2)_
 
+## How to contribute
+#### General Guidelines
+  * Clone this project to your local machine: `git clone https://github.com/Pabarreyro/index-pdx.git`
+  * Assign yourself an issue issueName from our repo
+  * Make a new local branch and start to work on it: `git checkout -b issueName`
+  
+#### Open A New Issue
+  * If you’d like to create a new issue, please go through our issue list first (open as well as closed) and make sure 
+  the issues you are reporting do  not replicate the existing issues.
+  *If you’ve determined that this issue doesn’t exist anywhere else. Use the [issue template](https://github.com/Pabarreyro/index-pdx/issues/new) to open a new issue.
+  * Be sure to include a title and clear description, as much relevant information as possible.
+
+#### Make A Pull Request
+  
+
+
 ## License
 
 MIT License
