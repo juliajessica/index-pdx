@@ -38,19 +38,22 @@ Takes multiple filter parameters | diet: "vegan"<br>price: "$" | [1: Place {name
 * JavaScript _(jQuery 3.3.2)_
 
 ## How to contribute
+
 #### General Guidelines
   * Clone this project to your local machine: `git clone https://github.com/Pabarreyro/index-pdx.git`
   * Assign yourself an issue issueName from our repo
   * Make a new local branch and start to work on it: `git checkout -b issueName`
-  
+  * It is great practice to follow [this commit style](https://udacity.github.io/git-styleguide/)
+
 #### Open A New Issue
-  * If you’d like to create a new issue, please go through our issue list first (open as well as closed) and make sure 
+  * If you’d like to create a new issue, please go through our issue list first (open as well as closed) and make sure
   the issues you are reporting do  not replicate the existing issues.
-  *If you’ve determined that this issue doesn’t exist anywhere else. Use the [issue template](https://github.com/Pabarreyro/index-pdx/issues/new) to open a new issue.
+  * If you’ve determined that this issue doesn’t exist anywhere else. Use the [issue template](https://github.com/Pabarreyro/index-pdx/issues/new) to open a new issue.
   * Be sure to include a title and clear description, as much relevant information as possible.
 
 #### Make A Pull Request
-  
+  * When sending a PR have an appropriate title referencing the issue which it solves.
+  Add “fixes #” in the commit body, so that when the PR gets merged, the issue gets closed automatically. Do not do this if the PR solves only a part of the issue.
 
 
 ## License
